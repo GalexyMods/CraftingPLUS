@@ -1,0 +1,26 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#P#",
+        "TET",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gunpowder"
+        },
+        "P": {
+            "item": "minecraft:porkchop"
+        },
+        "T": {
+            "item": "minecraft:tnt"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:creeper_spawn_egg",
+        "count": 1
+    }
+}

@@ -1,0 +1,26 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#P#",
+        "FGF",
+        "#P#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:pufferfish"
+        },
+        "P": {
+            "item": "minecraft:prismarine_crystals"
+        },
+        "F": {
+            "item": "minecraft:fermented_spider_eye"
+        },
+        "G": {
+            "item": "minecraft:guardian_spawn_egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:elder_guardian_spawn_egg",
+        "count": 1
+    }
+}

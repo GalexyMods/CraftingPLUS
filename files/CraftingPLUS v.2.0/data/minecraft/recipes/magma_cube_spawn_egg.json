@@ -1,0 +1,23 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        "MSM",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:magma_cream"
+        },
+        "M": {
+            "item": "minecraft:magma_block"
+        },
+        "S": {
+            "item": "minecraft:slime_spawn_egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:magma_cube_spawn_egg",
+        "count": 1
+    }
+}

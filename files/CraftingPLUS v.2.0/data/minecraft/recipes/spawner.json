@@ -1,0 +1,23 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#F#",
+        "FCF",
+        "#F#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_bars"
+        },
+        "F": {
+            "item": "minecraft:fire_charge"
+        },
+        "C": {
+            "item": "minecraft:conduit"
+        }
+    },
+    "result": {
+        "item": "minecraft:spawner",
+        "count": 1
+    }
+}

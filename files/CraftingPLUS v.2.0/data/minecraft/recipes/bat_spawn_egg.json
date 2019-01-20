@@ -1,0 +1,23 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#L#",
+        "LEL",
+        "#L#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:ink_sac"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:bat_spawn_egg",
+        "count": 3
+    }
+}

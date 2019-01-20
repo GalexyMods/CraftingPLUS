@@ -1,0 +1,23 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        "SES",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "S": {
+            "item": "minecraft:spider_eye"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:phantom_spawn_egg",
+        "count": 1
+    }
+}

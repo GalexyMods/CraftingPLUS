@@ -1,0 +1,26 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#P#",
+        "PZF",
+        "#P#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:prismarine_shard"
+        },
+        "P": {
+            "item": "minecraft:prismarine_crystals"
+        },
+        "Z": {
+            "item": "minecraft:zombie_spawn_egg"
+        },
+        "F": {
+            "item": "minecraft:fermented_spider_eye"
+        }
+    },
+    "result": {
+        "item": "minecraft:drowned_spawn_egg",
+        "count": 1
+    }
+}

@@ -1,0 +1,25 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#S ",
+        "#BF",
+        "#S "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "S": {
+            "item": "minecraft:spider_eye"
+        },
+        "B": {
+            "item": "minecraft:spider_spawn_egg"
+        },
+        "F": {
+            "item": "minecraft:fermented_spider_eye"
+        }
+    },
+    "result": {
+        "item": "minecraft:cave_spider_spawn_egg",
+        "count": 2    }
+}

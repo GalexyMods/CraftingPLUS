@@ -1,0 +1,26 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#W#",
+        "OEO",
+        "#W#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:emerald"
+        },
+        "W": {
+            "item": "minecraft:wheat"
+        },
+        "O": {
+            "item": "minecraft:wheat_seeds"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:villager_spawn_egg",
+        "count": 1
+    }
+}

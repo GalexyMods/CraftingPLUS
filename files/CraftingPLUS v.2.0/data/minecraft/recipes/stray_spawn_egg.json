@@ -1,0 +1,29 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#L#",
+        "PSF",
+        "#L#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:ice"
+        },
+        "L": {
+            "item": "minecraft:light_blue_dye"
+        },
+        "P": {
+            "item": "minecraft:packed_ice"
+        },
+        "S": {
+            "item": "minecraft:skeleton_spawn_egg"
+        },
+        "F": {
+            "item": "minecraft:fermented_spider_eye"
+        }
+    },
+    "result": {
+        "item": "minecraft:stray_spawn_egg",
+        "count": 1
+    }
+}

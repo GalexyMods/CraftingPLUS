@@ -1,0 +1,26 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "iIi",
+        "IES",
+        "iIi"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "I": {
+            "item": "minecraft:iron_nugget"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        },
+        "S": {
+            "item": "minecraft:spider_eye"
+        }
+    },
+    "result": {
+        "item": "minecraft:silverfish_spawn_egg",
+        "count": 3
+    }
+}

@@ -1,0 +1,23 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#L#",
+        "LEL",
+        "#L#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:brown_wool"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:horse_spawn_egg",
+        "count": 1
+    }
+}
